@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently working on my thesis!
 
-- 📫 How to reach me **marcelodefreitas25@gmail.com**
+- 📫 How to reach me : **marcelodefreitas25@gmail.com**
 
-- ⚡ About me :- Interested in Machine Learning and Web 3.
+- ⚡ About me : Interested in Machine Learning and Web 3.
 
 ## 💻 Programming skills
 
