@@ -13,10 +13,10 @@
      <a href="mailto: marcelodefreitas25@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-marcelodefreitas25@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"></a>
      </li>
      <li>
-        <a href="https://www.linkedin.com/in/marcelo-marreiros" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/marcelo-marreiros" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
      </li>
      <li>
-        <a href="https://orcid.org/0000-0002-3068-4074" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
+        <a href="https://orcid.org/0000-0002-3068-4074" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white"></a>
      </li>
   </ul>
  <li>⚡ About me : Interested in Machine Learning and Web 3.!</li>
