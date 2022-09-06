@@ -16,6 +16,8 @@
  <li>[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)</li>
 </ul>
 
+[![Linkedin Badge](https://img.shields.io/badge/-marcelo-marreiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-marreiros/)](https://www.linkedin.com/in/marcelo-marreiros/)
+
 - ⚡ About me : Interested in Machine Learning and Web 3.
 
 ## 💻 Programming skills
