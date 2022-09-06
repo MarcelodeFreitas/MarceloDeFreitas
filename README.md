@@ -13,6 +13,9 @@
      <li>
         <a href="https://www.linkedin.com/in/marcelo-marreiros" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
      </li>
+     <li>
+        <a href="https://orcid.org/0000-0002-3068-4074" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
+     </li>
   </ul>
  <li>⚡ About me : Interested in Machine Learning and Web 3.!</li>
 </ul>
