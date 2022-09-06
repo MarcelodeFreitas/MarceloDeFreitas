@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo Marreiros!</h1>
 <h3 align="center">Biomedical Engineering Master's student at University of Minho.</h3>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="marcelo" /></p>
+<p><img align="right" src="https://github.com/MarcelodeFreitas/MarceloDeFreitas/blob/main/animation_500_kxa883sd.gif" alt="gif" /></p>
  
 <br>
 
