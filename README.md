@@ -5,20 +5,20 @@
  
 <br>
 
-- 🌱 I’m currently working on my thesis!
+- 
 
 - 📫 How to reach me : 
 <ul>
-  <li>**marcelodefreitas25@gmail.com**</li>
-  <li>
-  [![Linkedin Badge](https://img.shields.io/badge/-marcelo-marreiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-marreiros/)](https://www.linkedin.com/in/marcelo-marreiros/)
-  </li>
- <li>[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)</li>
+  <li>🌱 I’m currently working on my thesis!</li>
+  <li>📫 How to reach me :</li>
+  <ul>
+     <li>**marcelodefreitas25@gmail.com**</li>
+     <li>
+        <a href="https://www.linkedin.com/in/marcelo-marreiros" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+     </li>
+  </ul>
+ <li>⚡ About me : Interested in Machine Learning and Web 3.!</li>
 </ul>
-
-[![Linkedin Badge](https://img.shields.io/badge/-marcelo-marreiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-marreiros/)](https://www.linkedin.com/in/marcelo-marreiros/)
-
-- ⚡ About me : Interested in Machine Learning and Web 3.
 
 ## 💻 Programming skills
 
