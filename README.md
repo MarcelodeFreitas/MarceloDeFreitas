@@ -34,7 +34,7 @@
 
 <br>
 
-[![wakatime](https://wakatime.com/badge/user/0ed1e4aa-5ba6-418c-93af-ceff88c1a0c9.svg)](https://wakatime.com/@0ed1e4aa-5ba6-418c-93af-ceff88c1a0c9)
+[![wakatime](https://wakatime.com/badge/user/f06a2313-5972-466f-a7a7-62f985b22b00.svg)](https://wakatime.com/@f06a2313-5972-466f-a7a7-62f985b22b00)
 
 <p> <img src="https://komarev.com/ghpvc/?username=MarceloDeFreitas&label=Profile%20views&color=0e75b6&style=flat"
     alt="MarceloDeFreitas" /> 
