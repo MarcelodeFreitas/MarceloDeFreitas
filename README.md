@@ -12,6 +12,7 @@
      <li>
      <a href="mailto: marcelodefreitas25@gmail.com" target="_blank">marcelodefreitas25@gmail.com</a>
      </li>
+   [![Gmail Badge](https://img.shields.io/badge/-marcelodefreitas25@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcelodefreitas25@gmail.com "Connect via Email")
      <li>
         <a href="https://www.linkedin.com/in/marcelo-marreiros" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
      </li>
