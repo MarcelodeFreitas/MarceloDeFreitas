@@ -5,9 +5,6 @@
  
 <br>
 
-- 
-
-- 📫 How to reach me : 
 <ul>
   <li>🌱 I’m currently working on my thesis!</li>
   <li>📫 How to reach me :</li>
