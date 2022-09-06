@@ -7,7 +7,14 @@
 
 - 🌱 I’m currently working on my thesis!
 
-- 📫 How to reach me : **marcelodefreitas25@gmail.com**
+- 📫 How to reach me : 
+<ul>
+  <li>**marcelodefreitas25@gmail.com**</li>
+  <li>
+  [![Linkedin Badge](https://img.shields.io/badge/-marcelo-marreiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-marreiros/)](https://www.linkedin.com/in/marcelo-marreiros/)
+  </li>
+</ul>
+- 
 
 - ⚡ About me : Interested in Machine Learning and Web 3.
 
