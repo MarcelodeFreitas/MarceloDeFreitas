@@ -20,6 +20,8 @@
 - HTML / CSS
 - MySQL / PostgreSQL
 
+<br>
+
 ## &#x1f4c8; GitHub Stats
 
 <p  align="left"><img align="center"
