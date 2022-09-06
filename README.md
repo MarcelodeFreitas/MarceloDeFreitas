@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **marcelodefreitas25@gmail.com**
 
-- ⚡ About me :- Interested in .
+- ⚡ About me :- Interested in Machine Learning and Web 3.
 
 ## 💻 Programming skills
 
