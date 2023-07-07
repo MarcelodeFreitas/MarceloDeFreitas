@@ -20,7 +20,7 @@
      </li>
   </ul>
  <li>⚡ About me : Interested in Machine Learning and Web 3!</li>
- <li> ⛳ Hobbies: pc building, mechanical keyboards, <a href="https://www.printables.com/@ShinIshiSou/models" target="_blank">3d design and 3d printing</a>!</li>
+ <li> ⛳ Hobbies: pc building, mechanical keyboards, <a href="https://www.printables.com/@braga3dprint" target="_blank">3d design and 3d printing</a>!</li>
 </ul>
 
 ## 💻 Programming skills
