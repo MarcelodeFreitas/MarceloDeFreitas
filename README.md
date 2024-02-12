@@ -19,7 +19,7 @@
         <a href="https://orcid.org/0000-0002-3068-4074" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white"></a>
      </li>
   </ul>
- <li>⚡ About me : Interested in Machine Learning and Web 3!</li>
+ <li>⚡ About me : Interested in Machine Learning!</li>
  <li> ⛳ Hobbies: cycling, pc building, 3d design and 3d printing!</li>
 </ul>
 
