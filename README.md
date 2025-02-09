@@ -2,15 +2,15 @@
 <h3 align="center">Biomedical Engineering Master's graduate from the University of Minho.</h3>
 
 <p><img align="right" src="https://github.com/MarcelodeFreitas/MarceloDeFreitas/blob/main/animation_500_kxa883sd.gif" alt="gif" /></p>
- 
+
 <br>
 
 <ul>
-  <li>🌱 I’m currently working on my thesis!</li>
+  <li>🌱 I’m currently working at <a href="https://www.tlantic.com/" target="_blank">Tlantic</a>!</li>
   <li>📫 How to reach me :</li>
   <ul>
      <li>
-     <a href="mailto: marcelodefreitas25@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-marcelodefreitas25@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+     <a href="mailto:marcelodefreitas25@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-marcelodefreitas25@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"></a>
      </li>
      <li>
         <a href="https://www.linkedin.com/in/marcelo-marreiros" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
@@ -19,19 +19,34 @@
         <a href="https://orcid.org/0000-0002-3068-4074" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white"></a>
      </li>
   </ul>
- <li>⚡ About me : Interested in Machine Learning!</li>
- <li> ⛳ Hobbies: cycling, pc building, 3d design and 3d printing!</li>
+  <li>⚡ About me: Interested in Machine Learning, Data Science, and Software Development!</li>
+  <li>⛳ Hobbies: cycling, PC building, 3D design, 3D printing, and exploring new technologies!</li>
 </ul>
 
-## 💻 Programming skills
+## 💻 Programming Skills
 
-- Python
-- Java
-- Javascript
-- React / React Native
-- HTML / CSS
-- MySQL / PostgreSQL
+- **Languages:**
+  - C++
+  - Python
+  - Java
+  - JavaScript
 
+- **Web Development:**
+  - HTML / CSS
+  - React
+
+- **Mobile Development:**
+  - React Native
+
+- **Databases:**
+  - MySQL
+  - PostgreSQL
+
+- **Tools & Technologies:**
+  - Git
+  - Docker
+  - Linux
+  
 <br>
 
 ## &#x1f4c8; GitHub Stats
