@@ -6,7 +6,10 @@
 <br>
 
 <ul>
-  <li>🌱 I’m currently working at <a href="https://www.tlantic.com/" target="_blank">Tlantic</a>!</li>
+  <li>🏢 I’m currently working at <a href="https://www.tlantic.com/" target="_blank">Tlantic</a> on
+  retail POS modernization.</li>
+  <li>🌐 Portfolio: <a href="https://meet-marcelo.vercel.app/" target="_blank">meet-
+  marcelo.vercel.app</a></li>
   <li>📫 How to reach me :</li>
   <ul>
      <li>
@@ -20,7 +23,7 @@
      </li>
   </ul>
   <li>⚡ About me: Interested in Machine Learning, Data Science, and Software Development!</li>
-  <li>⛳ Hobbies: cycling, PC building, 3D design, 3D printing, and exploring new technologies!</li>
+  <li>⛳ Hobbies: motorcycling, PC building, 3D design, 3D printing, and exploring new technologies!</li>
 </ul>
 
 ## 💻 Programming Skills
